@@ -1,0 +1,15 @@
+# Python
+**/__pycache__/
+
+# Project
+repo/
+caches/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
